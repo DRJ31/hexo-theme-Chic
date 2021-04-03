@@ -5,7 +5,7 @@ navname: DRJ's Blog
 nav:
   Posts: /archives
   Categories: /categories
-  Tags: /tags
+  Projects: /projects
   Friends: /friends
   About: /about
 
@@ -91,7 +91,9 @@ stylesheets:
 # scripts loaded in the end of the body
 scripts:
   - /js/script.js
+  - /js/jquery.min.js
   - /js/tocbot.min.js
+  - /js/totop.js
     # tscanlin/tocbot: Build a table of contents from headings in an HTML document.
     # https://github.com/tscanlin/tocbot
 
